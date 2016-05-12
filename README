@@ -1,0 +1,25 @@
+  
+   README for README in /Users/phe_c/Documents/Octocat/jerrai_y
+   
+   Made by PHE Celine
+   Login   <phe_c@etna-alternance.net>
+   
+   Started on  Fri Jan 22 15:47:35 2016 PHE Celine
+   Last update Fri Jan 22 15:47:38 2016 PHE Celine
+  
+Le projet est de realiser un jeu de labyrinthe.
+Il y a plusieurs modes de jeu : 
+
+A - Le mode casu est le mode ou le joueur se deplace tour par tour avec les touches aswd. A chaque tour, on demande au joueur quelle direction il veut prendre. Si le joueur se prend un mur, le jeu s'arrete et on lui propose de rejouer.
+
+B - Le mode hardcore est le mode ou le joueur devra entrer tout son itineraire de deplacement. Si l'itineraire ne mene pas jusqu'a la sortie, le joueur perd. Si le joueur se prend un mur, le jeu s'arrete et on lui propose de rejouer.
+
+C (BONUS)- Le mode blind est le mode ou le joueur ne voit pas la map. Pour gagner, il devra recommencer encore et encore.
+
+D (BONUS)- Le mode octoview est le mode ou le joueur ne voit que 8 cases autour de lui. 
+
+H - Le mode help est le manuel qui explique les différentes options.
+
+Q - Le mode quit permet de quitter le jeu.
+
+S - Option cachée, elle permet de voir la solution des différentes maps.
